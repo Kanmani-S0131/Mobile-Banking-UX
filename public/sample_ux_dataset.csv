@@ -1,0 +1,21 @@
+record_id,bank_name,country,app_name,screen_no,screen_name,screen_category,features_present,auth_method,languages_supported,accessibility_flag,ux_rating,collected_by,collected_date
+SMP-001,  liberty crest bank ,USA,Liberty Mobile,1,Biometric Sign-In,login,biometric login; dark mode; biometric login,face id,english; spanish,y,5,Maya Chen,2026-02-14
+SMP-002,Liberty Crest Bank,United States,Liberty Mobile,2,Home Account Overview,Dashboard,Spending Insights; Instant Transfer; Card Controls,Biometric,English; Spanish,Yes,4,Maya Chen,15/02/2026
+SMP-003,thames sterling bank,U.K.,SterlingOne,1,PIN Entry,Login,Biometric Login; Dark Mode,pin,english,true,4,Liam Gallagher,2026/03/01
+SMP-004,Desert Falcon Bank,UAE,FalconPay,1,QR Merchant Checkout,payments,qr pay; instant transfer; multi-currency,OTP,arabic; english,1,5,Tariq Al-Mansoor,2026-04-10
+SMP-005,hangang digital bank,Korea,Hangang One,1,Checking & Savings List,accounts,Card Controls; Savings Goals; Spending Insights,Biometric,korean; english,Yes,5,Min-Jae Park,2026-05-19
+SMP-006,Merlion Straits Bank,Singapore,StraitsPay,1,Domestic Instant Transfer,Transfers,Instant Transfer; QR Pay; Bill Pay; Multi-Currency; Dark Mode,Face ID,English; Mandarin; Malay; Tamil; Hindi,Yes,5,Maya Chen,2026-06-05
+SMP-007,Maple Ridge Bank,Canada,MaplePay,1,Utility Bill Pay,Payments,Bill Pay; Spending Insights,Password,English; French,No,3,Chloe Tremblay,2026-06-11
+SMP-008,Rheinland Handelsbank,Germany,RheinMobil,1,Monthly PDF Statements,Statements,Dark Mode,PIN,German; English,Yes,4,Lucas Meyer,2026-07-02
+SMP-009,Sakura Shinkin Bank,Japan,SakuraWallet,1,Card Freeze & Limits,Cards,Card Controls; Biometric Login,Biometric,Japanese; English,Yes,4,Hana Sato,2026-07-18
+SMP-010,Deccan Bharati Bank,India,BharatiPay,1,QR Merchant Checkout,Payments,QR Pay; Instant Transfer; Bill Pay,OTP,English; Hindi; Tamil,Yes,5,Priya Nair,2026-08-03
+SMP-011,Southern Cross Bank,Australia,CrossPay,1,Personal Loan Estimator,Loans,Spending Insights; Chatbot Support,Biometric,English,N,3,Liam Gallagher,2026-08-22
+SMP-012,Table Mountain Bank,South Africa,MountainPay,1,Real-Time Alerts Inbox,Notifications,Dark Mode; Card Controls,PIN,English; Afrikaans; Zulu,Yes,4,Daniel Okafor,2026-09-09
+SMP-013,Atlantica Sul Bank,Brazil,AtlanticaPay,1,Instant Pix Checkout,Payments,QR Pay; Instant Transfer,Biometric,Portuguese; English,Yes,5,Sofia Silva,2026-09-14
+SMP-014,   ,United States,GhostPay,1,Missing Bank Screen,Login,Dark Mode,PIN,English,Yes,4,Maya Chen,2026-09-20
+SMP-015,Pacific Harbor Financial,USA,HarborPay,1,Out of Range Rating,Dashboard,Dark Mode,Password,English,Yes,7,Maya Chen,2026-09-21
+SMP-016,Pacific Harbor Financial,USA,HarborPay,2,Invalid Category Row,CryptoExchange,QR Pay,OTP,English,Yes,4,Maya Chen,2026-09-22
+SMP-017,Pacific Harbor Financial,USA,HarborPay,3,Future Date Row,Login,Dark Mode,PIN,English,Yes,4,Maya Chen,2099-12-31
+SMP-018,Pacific Harbor Financial,USA,HarborPay,4,Unknown Feature Row,Cards,QR Pay; Telepathy Pay,PIN,English,Yes,4,Maya Chen,2026-09-23
+SMP-019,Liberty Crest Bank,United States,Liberty Mobile,1,Duplicate Screen Row,Login,Biometric Login,Face ID,English,Yes,3,Maya Chen,2026-09-24
+SMP-020,Pacific Harbor Financial,USA,HarborPay,5,Non-Numeric Rating,Accounts,Dark Mode,PIN,English,0,abc,Maya Chen,2026-09-25

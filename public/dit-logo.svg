@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 100" role="img" aria-label="DefineInfoTech - We Define Intellect">
+  <!-- Left Emblem Box -->
+  <g transform="translate(4,4)">
+    <!-- Dark navy main container (cut out top-right corner for blue square) -->
+    <path d="M0,0 H68 V28 H92 V92 H0 Z" fill="#102846" />
+    <!-- Top-right steel-blue accent square -->
+    <rect x="70" y="0" width="22" height="26" fill="#5D96CE" />
+
+    <!-- Stylized D / iD shape in steel-blue -->
+    <path
+      d="M28,24 H46 C66,24 80,38 80,56 C80,74 66,86 46,86 H28 V72 H45 C58,72 67,65 67,56 C67,46 58,38 45,38 H28 Z"
+      fill="#5D96CE"
+    />
+    <!-- Vertical stem on left -->
+    <rect x="12" y="54" width="12" height="32" rx="2" fill="#5D96CE" />
+    <rect x="12" y="28" width="12" height="16" rx="2" fill="#5D96CE" />
+
+    <!-- White circuit trace nodes -->
+    <g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="22" y1="15" x2="12" y2="25" />
+      <line x1="12" y1="25" x2="22" y2="36" />
+      <line x1="22" y1="36" x2="12" y2="48" />
+      <line x1="22" y1="36" x2="31" y2="36" />
+      <circle cx="22" cy="15" r="3.5" stroke="none" />
+      <circle cx="12" cy="25" r="3.5" stroke="none" />
+      <circle cx="22" cy="36" r="4" stroke="none" />
+      <circle cx="12" cy="48" r="3.5" stroke="none" />
+      <circle cx="31" cy="36" r="3.5" stroke="none" />
+    </g>
+  </g>
+
+  <!-- Brand Wordmark -->
+  <text
+    x="112"
+    y="56"
+    fill="#102846"
+    font-family="'Arial Narrow', 'Roboto Condensed', 'Plus Jakarta Sans', Arial, sans-serif"
+    font-size="50"
+    font-weight="800"
+    letter-spacing="-0.5"
+  >DefineInfoTech</text>
+
+  <!-- Tagline -->
+  <text
+    x="156"
+    y="84"
+    fill="#5D96CE"
+    font-family="'Brush Script MT', 'Segoe Script', Georgia, cursive"
+    font-style="italic"
+    font-size="23"
+    font-weight="600"
+    letter-spacing="0.4"
+  >We Define Intellect</text>
+</svg>
